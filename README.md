@@ -1,6 +1,6 @@
 #Astronomy Picture of the Day, an API from NASA.
 
-This project was developed in conjunction with an article published on the Revelo Content Network, you can find the article at this link >Coming soon<
+This project was developed in conjunction with an article published on the Revelo Content Network, you can find the article at this link (https://community.revelo.com/author/felipe/)
 
 You can read more about this API at this link: https://api.nasa.gov/
 
