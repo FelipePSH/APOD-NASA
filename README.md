@@ -1,10 +1,7 @@
-# Astronomy Picture of the Day, uma Api da Nasa.
+#Astronomy Picture of the Day, an API from NASA.
 
-Este projeto foi desenvolvido em conjunto com um artigo públicado na Revelo Content Network, você poderá encontrar o artigo neste link >Em breve<
+This project was developed in conjunction with an article published on the Revelo Content Network, you can find the article at this link >Coming soon<
 
-Você pode ler mais sobre esta API neste link : https://api.nasa.gov/
+You can read more about this API at this link: https://api.nasa.gov/
 
-Para desenvolver este projeto foram utilizadas as seguintes tecnologias: 
-Kotlin, como linguagem base para o desenvolvimento; Android, como plataforma de desenvolvimento; 
-Retrofit, como framework de rede/network; A bliblioteca Glide, para processamento de imagens requisitadas na Api;
-GsonConverterFactory, para parseamento de dados Json em objetos e arquitetura MVVM.
+The following technologies were used to develop this project: Kotlin as the base language for development; Android as the development platform; Retrofit as the network framework; the Glide library for processing images requested from the API; GsonConverterFactory for parsing Json data into objects and the MVVM architecture."
